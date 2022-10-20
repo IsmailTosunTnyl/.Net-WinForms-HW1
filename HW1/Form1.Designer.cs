@@ -72,7 +72,7 @@
             this.textBox_lN.Name = "textBox_lN";
             this.textBox_lN.Size = new System.Drawing.Size(123, 27);
             this.textBox_lN.TabIndex = 2;
-            this.textBox_lN.TextChanged += new System.EventHandler(this.textBox_lN_TextChanged);
+            //this.textBox_lN.TextChanged += new System.EventHandler(this.textBox_lN_TextChanged);
             // 
             // textBox_address
             // 
